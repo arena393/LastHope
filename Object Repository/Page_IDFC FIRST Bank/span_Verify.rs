@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Verify</name>
+   <tag></tag>
+   <elementGuidId>2c911eb8-a60f-43d0-8ad0-91cf04296f50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/div/div[2]/div[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.Buttonstyle__Wrapper-sc-6p72tp-0.fiHaVQ.sc-idBWBG.bLKSQc > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2bb68718-54b7-4707-b562-726ca8ff15af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify</value>
+      <webElementGuid>d1e54f77-cb7f-4468-ad50-4e8e7ac8e7c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;sc-eDLJxc jROSNv&quot;]/div[@class=&quot;sc-iBdmCd jCpTsi&quot;]/div[@class=&quot;sc-jTQDnj iCjXqL&quot;]/div[@class=&quot;sc-fsYeqs ljsNSP&quot;]/div[@class=&quot;sc-fAcSAR hvGYYQ&quot;]/button[@class=&quot;Buttonstyle__Wrapper-sc-6p72tp-0 fiHaVQ sc-idBWBG bLKSQc&quot;]/span[1]</value>
+      <webElementGuid>68788095-f647-45a9-9dd9-467d44c84502</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/div/div[2]/div[2]/div/button/span</value>
+      <webElementGuid>ed70d5c5-25f4-45e4-baef-306274abcc63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[1]/following::span[1]</value>
+      <webElementGuid>4cccb0b4-d25b-446a-b906-f19e1d10182f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[1]/following::span[12]</value>
+      <webElementGuid>cd5f3902-327e-48e5-8738-44bb96e644b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDFC FIRST Bank is registered with DICGC (https://www.dicgc.org.in)'])[1]/preceding::span[2]</value>
+      <webElementGuid>37df7f16-5ba7-4b42-aaf2-e5cfb31f60e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DICGC Website'])[1]/preceding::span[3]</value>
+      <webElementGuid>c3ad1311-f372-4377-8aec-33a35fe01d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verify']/parent::*</value>
+      <webElementGuid>0a0788b4-63c9-4ce6-9c8e-6d04ec22a236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button/span</value>
+      <webElementGuid>7778577e-2168-4c8a-8b3d-f4e1ca05fa61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Verify' or . = 'Verify')]</value>
+      <webElementGuid>fbec5cc3-bb1a-4a84-a5d0-292ee331242e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
